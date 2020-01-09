@@ -1,0 +1,10 @@
+#about{
+	height:300px;
+	width:auto;
+	background:gray;
+	
+	
+}
+#about:hover{
+	background:lightgray;
+}
